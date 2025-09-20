@@ -6,8 +6,11 @@
 
 
 **Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
-***
+
 ![Tagore Auditorium](https://github.com/Ishita95-harvad/mtech-portfolio.github.io/blob/main/a9.webp)
+
+
+***
 
 ### ⚡🌐 Fun fact: Bananas are technically berries, but strawberries are not!
 
