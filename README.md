@@ -21,9 +21,7 @@ Botanically speaking, a berry is a fruit that develops from a single ovary and h
 
 ### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
   
-- 🌐 [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) -🌐 [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/)
-- 🌐 [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
-- 🌐 [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
+
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
 -----
 
